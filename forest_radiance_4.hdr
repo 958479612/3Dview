@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯f}¯K_ƒµö€†­ê€¨á€€¦ß€‚¨â€…«æ€Š°ë€¶ô€L_Qe‡Wl^sšf|©o†¹xÉ›Ù‰¤é‘¬÷KY‚LZƒ‚KY‚’®ýŒ¨ó… ç|–ØqŠÇf~´]t¥Vl˜PeK_ƒgˆ¬€Yx“€Rqˆ€UtŽ€Ww•€Zzœ€\~¥€]~¤€_¥€dƒ¨€m³€~žÈ€•·ê€YlŒk€¨~–Ë’¬íSaˆ‚Xf‚[j•‚_nœ‚br£‚br¦‚]mž‚Wf•‚O^ˆ‚‹¦ðvË`v¤”»ú€x›È€gˆ¬€˜Íéxª¶y«¸{®¾~²Áƒ·Ëˆ¾ß‹Áð‡»ï‡¸íŒ¹ßžÉçd}€Œ«Ð€_s”wŽ»¦ÝŸ·óWc‚‚bn‚nz¢‚s®‚w†º‚t„º‚o€·‚eu¨‚Wf’‚Œ¦êg}«”¸ï€_|“€˜Íéq•¨Z}b‹Ÿh”•g„f|e†zs–¡yž¹r“²c‚šp›žÄÛ~›»€asŽ~¨¦¯»éäØÐÔßxy‚{‘‚~†£‚fm†‚akŒ‚huž‚o®‚gxª‚SbŠ‚wÂŠ¨Ð€«Öûq•¨}›±]z‹m“­‚°Ëz¢¡u–‘|šŠª¼­É~›µcyŠ®Ðã~Yk€€‰¢Ã€ÁÛø€Ž–šèàÊÊµ“‚}aƒ ‹nƒ³¥’‚Ã¾¼ˆŽ€‹¨“£Í£·ïYfˆ‚Yg‹‚—Â«Èõ€dw€}›±|‘›Çòù~{š¥ÉÚŸËÒ“´¹Œ§®Š£²‚šªm‚Ž ¼¾~z~|Çãû©­€‚wïÝµáÄ•‚¨kƒ¿¢zƒ“ƒh‚øëÌ€œ ž€“ž­€ªº×€·Ëö€fssƒ¦ky”ž´Ô€½Øô|‘›ÑåÊ~Êß¶~‘~ º¬ž½®Œ£š{ŒˆÚôð~»ÐÉ~”¤”~Óã«}¢¨d}|‡p~ÍÞÊ~»À©­§Š€«švŸ‰c‚á½ˆ‚ã¿‰‚Ž}\âÖ¤“–‚Œ•Ž˜¤¥˜¦¯§¸ÌÄÙõr~‹€Ä×ç„‘ÑåÊ~¨¥j~¾¹p~éä–~€‚_ëø¸~ÉÒ ~¬¯†~”’m~ƒ}X~àÍ‚}¼¤W}©D}·¤]}éÝ˜}µ­‚~™lŒ}[€òÎ€š€Y‚mKŒ`œ™k~øþÇ}ƒo~‰Œ{~‘“„~œ~£¦”~ÄÉµ~ÁÃª~§§}~¨¥j~–†I~¦“N~¹£^~¸£g~¦—c~œ^~€T~‡tG~j>~õÂl}é³a}å®a}ìºp}óÊ„}ˆvS~«˜m~ïÑ”~¥Œa¦‹_¬‘a~®Ÿk}–g}¡™n}´¦|}Í¶Š}ñÑ }†sX~ŒwV~•‚\~”ƒZ~M~–†I~‹s?~u?~tB~ƒjB~øÐ‘}þÖ–}kH~ƒjD~…hA~„f?~„d?~ˆgC~pL~sP~tS~‹tU~„oR~ôÍ–}Ä¥y}…qT}€nO}’}X}£Š`}º™k}Ø«w}úÄ‹}ŒmL~—vQ~{Q~tI~ŠqB~‹s?~üÅw}öÀs}ç´q}¶‘g}¬Žk}¯•v}Ö¶Œ}åÀ}ïÄ}õÆ}éÄ˜}ûÑ }†oU~vX~˜|[~‘vX~hO~Î«„}•~g}€kV}ƒlS}tU}±Œb}Ç›l}à¬x}óº„}á°‚}ã±}ä²}}ƒfB~€d>~üÅw}ª‡a}ª‡`}§†a}£…d} †h}¡‹o}§’w}¯š}¹¢…}Ãª‹}Î³‘}Øº–}äÃ›}éÆ}çÄœ}Úº•}Á¦ˆ}¦y}Ž|j}þÞ¿|÷Ô³|kY}†p[}“yb}Ÿƒj}¦‰n}©‹p}ª‹m}§ˆi}©ˆe}§…a}ª‡a}”{a}•|a}–}b}—€e}™ƒi}›†m}žŠq}¤v}©•{}®™}³‚}¶ „}· …}´ž„}¯š‚}¦“}}›‰w}p}†wj}qe}öÛÂ|ðÕ½|ñÖ½|ýÞÂ|ƒrc}‡ue}‹xe}Žye}zc}ya}‘ya}”{a}‹xd}Œye}zf}Ž{g}}h}‘j}“l}–ƒn}—…p}˜†q}˜‡r}—†r}–†r}–…r}”ƒq}p}Œ}m}ˆzk}ƒvh}þåÌ|ûáÈ|üáÇ|ýáÇ|qc}€qc}rc}‚rc}ƒsc}…tc}‡uc}‰wd}‹xd}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}‰yh}
